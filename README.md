@@ -22,7 +22,7 @@ This folder contains most of my representative python work samples:
 
 
 
-## Folder `flask_sqlalchemy`:
+## Folder `flask_sqlalchemy`
 
 This folder contains Python and HTML files to build a simple API to connect the SQLite database `book` and application which we can do CRUD (create, read, update and delete) operations.
 
