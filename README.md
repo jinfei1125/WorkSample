@@ -1,6 +1,6 @@
 # Jinfei Zhu's Work Samples
 
-Hi! All the documents in this folder are work samples of Jinfei Zhu. Most of them are my personal projects. For some codes that I had for my previous interns or some projects, due to privacy policies I cannot provide them here. Should you have any questions, feel free to contact me (jinfei@uchicago.edu)
+Hi! All the documents in this folder are work samples of Jinfei Zhu. Most of them are my personal projects. For some codes that I had for my previous interns or some projects, due to privacy policies I cannot provide them here. Should you have any questions, feel free to contact me via email (jinfei at uchicago dot edu) or [LinkedIn](https://www.linkedin.com/in/jinfei-zhu/).
 
 # Python Work Sample Folder
 
